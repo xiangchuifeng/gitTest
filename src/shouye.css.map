@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,GAAG;EACC,KAAK,EAAC,KAAK;EACX,MAAM,EAAC,KAAK;EACZ,UAAU,EAAC,OAAO;;AAClB,UAAM;EACF,KAAK,EAAC,IAAI;EACV,MAAM,EAAC,IAAI;EACX,UAAU,EAAC,OAAO;EAClB,KAAK,EAAC,OAAO;EACb,WAAW,EAAE,MAAM",
+"sources": ["../../../../../1%E5%A4%A7%E5%89%8D%E7%AB%AF%EF%BC%81/1.2Javascript/Sass%E4%B8%93%E9%A2%98%EF%BC%81/Sass-project/src/shouye.scss"],
+"names": [],
+"file": "shouye.css"
+}
